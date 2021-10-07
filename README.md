@@ -10,4 +10,4 @@
 </p>
 
 
-Experienced data analyst/engineer & market research analyst with significant experience in the energy sector. Particular specialism in the upstream oil and gas industry and the supply chain, with knowledge of the utility/electricity and EV industries. Strong data fluency (GIT, Python, FME, GIS, SQL, DBT, Snowflake, Postgres, Postgis, Apache Airflow, Docker, Linux, commercial dashboarding software)
+Experienced data analyst, GIS analyst, analytics engineer and market research analyst with significant experience in the energy sector. Particular specialism in the upstream oil and gas industry and the supply chain, with knowledge of the utility/electricity and EV industries. Strong data fluency (GIT, Python, FME, GIS, SQL, DBT, Snowflake, Postgres, Postgis, Apache Airflow, Docker, Linux, commercial dashboarding software)
