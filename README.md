@@ -23,12 +23,12 @@ Experienced data analyst, GIS analyst, analytics engineer and market research an
 | ... | ... |
   --->
   
-| Project | Tags |
+| Project | Description |
 | --- | --- |
-| [**Satellite Flaring Monitor**: Daily flare locations and volumes tracker](https://github.com/) |<img src="https://img.shields.io/badge/-Python-blue">|
-| [**Satellite AIS Tanker tracker**: Ship tracking and route clustering and volume estimating](https://github.com/) |<img src="https://img.shields.io/badge/-Python-blue">|
-| [**Offshore Wind Economics Modelling**: Database of offshore wind farms/planned and constructed/ power curves and monte carlo modelling of windpseed and electricty output](https://github.com/) |<img src="https://img.shields.io/badge/-Python-blue">|
-| [**Investment dashboard**: Script to extract portfolio data / dashbaord and benchmark performance ](https://github.com/) |<img src="https://img.shields.io/badge/-Python-blue">|
-| [**Offshore Rig Market tool: floaters**: NLP script to extract contract data from press releases and fleet status reports and dashboard utilisatoin and dayrate trends ](https://github.com/) |<img src="https://img.shields.io/badge/-Python-blue">|
+| [**Satellite Flaring Monitor**: ](https://github.com/) | Daily flare locations and volumes tracker |
+| [**Satellite AIS Tanker tracker**: ](https://github.com/) | Ship tracking and route clustering and volume estimating |
+| [**Offshore Wind Economics Modelling**: ](https://github.com/) | Database of offshore wind farms/planned and constructed/ power curves and monte carlo modelling of windpseed and electricty output |
+| [**Investment dashboard**: ](https://github.com/) | Script to extract portfolio data / dashbaord and benchmark performance |
+| [**Offshore Rig Market tool: floaters**: ](https://github.com/) | NLP script to extract contract data from press releases and fleet status reports and dashboard utilisatoin and dayrate trends |
 
 </details>  
