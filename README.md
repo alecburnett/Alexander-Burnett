@@ -14,7 +14,7 @@ Experienced data analyst, GIS analyst, analytics engineer and market research an
 
 
 <details>
-<summary>Projects</summary>
+<summary>Personal Projects</summary>
   
   <!---
   | Command | Description |
