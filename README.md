@@ -30,5 +30,5 @@ Experienced data analyst, GIS analyst, analytics engineer and market research an
 | [**Offshore Wind Economics Modelling**: ](https://github.com/) | Database of offshore wind farms/planned and constructed/ power curves and monte carlo modelling of windpseed and electricty output |
 | [**Investment dashboard**: ](https://github.com/) | Script to extract portfolio data / dashboard and benchmark performance |
 | [**Offshore Rig Market tool: floaters**: ](https://github.com/) | NLP script to extract contract data from press releases and fleet status reports and dashboard utilisation and dayrate trends |
-
+| [**UK Electricity Tariff Estimator: floaters**: ](https://github.com/) | Univariate forecasting of 30 minute Octopus Energy Agile Tariffs |
 </details>  
