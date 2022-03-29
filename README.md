@@ -12,6 +12,7 @@
 
 Experienced data analyst, GIS analyst, analytics engineer and market research analyst with experience in the energy and fintech sectors. Particular specialism in the upstream oil and gas industry and its supply chain, alongside knowledge of the utility/electricity and EV industries. Strong data fluency (GIT, Python, FME, GIS, SQL, DBT, Snowflake, Postgres, Postgis, Linux, commercial dashboarding software).
 
+Currently working at Treatwell, helping tackle data issues of the health and beauty sector.
 
 <details>
 <summary>Personal Projects</summary>
